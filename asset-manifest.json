@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iromjkee.github.io/iromjkee.github.io/static/css/main.a4e1ef5b.chunk.css",
+    "main.js": "/iromjkee.github.io/iromjkee.github.io/static/js/main.32dc2106.chunk.js",
+    "main.js.map": "/iromjkee.github.io/iromjkee.github.io/static/js/main.32dc2106.chunk.js.map",
+    "runtime-main.js": "/iromjkee.github.io/iromjkee.github.io/static/js/runtime-main.aa72a5c4.js",
+    "runtime-main.js.map": "/iromjkee.github.io/iromjkee.github.io/static/js/runtime-main.aa72a5c4.js.map",
+    "static/js/2.408c86e1.chunk.js": "/iromjkee.github.io/iromjkee.github.io/static/js/2.408c86e1.chunk.js",
+    "static/js/2.408c86e1.chunk.js.map": "/iromjkee.github.io/iromjkee.github.io/static/js/2.408c86e1.chunk.js.map",
+    "index.html": "/iromjkee.github.io/iromjkee.github.io/index.html",
+    "static/css/main.a4e1ef5b.chunk.css.map": "/iromjkee.github.io/iromjkee.github.io/static/css/main.a4e1ef5b.chunk.css.map",
+    "static/js/2.408c86e1.chunk.js.LICENSE.txt": "/iromjkee.github.io/iromjkee.github.io/static/js/2.408c86e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa72a5c4.js",
+    "static/js/2.408c86e1.chunk.js",
+    "static/css/main.a4e1ef5b.chunk.css",
+    "static/js/main.32dc2106.chunk.js"
+  ]
+}
